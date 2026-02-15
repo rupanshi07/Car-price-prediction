@@ -59,7 +59,7 @@ Technologies Used
 | Version Control | Git & GitHub                        |
 
 
-🚀 How to Run
+How to Run
 1️⃣ Install dependencies
 pip install -r requirements.txt
 
